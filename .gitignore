@@ -1,0 +1,24 @@
+# Flyway installation and downloads
+flyway-*/
+flyway-commandline-*.tar.gz
+
+# Local database credentials
+.env
+flyway.conf
+
+# Database backups
+backups/
+*.dump
+*.backup
+
+# Temporary files
+*.log
+
+# Local Flyway credentials
+flyway.local.toml
+
+# Local Flyway test credentials
+flyway.test.toml
+
+# Local Flyway test credentials
+flyway.test.toml
